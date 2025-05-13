@@ -1,7 +1,7 @@
 export const About = () => {
   const frontendSkills = ["React", "Vue", "TypeScript", "Tailwind CSS"];
 
-  const backendSkills = ["Node.js", "Express", "MongoDB"];
+  const backendSkills = ["Node.js", "Express", "MongoDB", "Javascript"];
   return (
     <section
       id="about"
